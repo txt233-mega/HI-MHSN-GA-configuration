@@ -13,4 +13,3 @@ supply network (HI-MHSN).
 
 - MATLAB R2023b
 - Global Optimization Toolbox
-- Parallel Computing Toolbox, if parallel evaluation is enabled
